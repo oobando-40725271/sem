@@ -1,7 +1,7 @@
-# SET0903 DevOps
+# SET09803 DevOps
 ## GitHub Versioning
 Welcome to my GitHub repository for DevOps
-course SET0903. This repository will be used to
+course SET09803. This repository will be used to
 track software version control for this course
 from Intelli J app on my desktop.
 

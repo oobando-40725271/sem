@@ -20,4 +20,5 @@ of this material.
 Test # 2
 test 3
 
-![workflow](https://github.com/github/docs/actions/workflows/main.yml/badge.svg?branch=feature-1)
+![workflow]
+(https://github.com/github/docs/actions/workflows/main.yml/badge.svg)

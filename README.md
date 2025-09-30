@@ -20,5 +20,8 @@ of this material.
 Test # 2
 test 3
 
-[![workflow]
-(https://github.com/github/docs/actions/workflows/main.yml/badge.svg)]
+![workflow](https://github.com/oobando-40725271/sem/actions/workflows/main.yml/badge.svg)
+
+[![LICENSE](https://img.shields.io/github/license/<oobando-40725271>/devops.svg?style=flat-square)](https://github.com/<oobando-40725271>/devops/blob/master/LICENSE)
+
+[![Releases](https://img.shields.io/github/release/<oobando-40725271>/devops/all.svg?style=flat-square)](https://github.com/<oobando-40725271>/devops/releases)

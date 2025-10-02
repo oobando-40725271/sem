@@ -24,4 +24,4 @@ test 3
 
 [![LICENSE](https://img.shields.io/github/license/oobando-40725271/sem.svg?style=flat-square)](https://github.com/oobando-40725271/sem/blob/master/LICENSE)
 
-[![Releases](https://img.shields.io/github/release/oobando-40725271/devops/all.svg?style=flat-square)](https://github.com/oobando-40725271/devops/releases)
+[![Releases](https://img.shields.io/github/release/oobando-40725271/sem/all.svg?style=flat-square)](https://github.com/oobando-40725271/sem/releases)

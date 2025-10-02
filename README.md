@@ -22,6 +22,6 @@ test 3
 
 ![workflow](https://github.com/oobando-40725271/sem/actions/workflows/main.yml/badge.svg)
 
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![LICENSE](https://img.shields.io/github/license/oobando-40725271/sem/devops.svg?style=flat-square)](https://github.com/oobando-40725271/sem/devops/blob/master/LICENSE)
-[![Releases](https://img.shields.io/github/release/oobando-40725271/devops/all.svg?style=flat-square)](https://github.com/oobando-40725271/devops/releases)
+
+[![Releases](https://img.shields.io/github/release/oobando-40725271/sem/devops/all.svg?style=flat-square)](https://github.com/oobando-40725271/sem/devops/releases)

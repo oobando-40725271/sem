@@ -26,4 +26,4 @@ test 3
 
 [![Releases](https://img.shields.io/github/release/oobando-40725271/sem/all.svg?style=flat-square)](https://github.com/oobando-40725271/sem/releases)
 # DevOps
-![GitHub Workflow Status(branch)](https://img.shields.io/github/workflow/status/oobando-40725271/sem/<action name taken from main.yml>/<branch>?style=flat-square)
+[![A workflow for my Hello World App](https://github.com/oobando-40725271/sem/actions/workflows/main.yml/badge.svg?branch=develop&event=status)](https://github.com/oobando-40725271/sem/actions/workflows/main.yml)

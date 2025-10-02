@@ -27,3 +27,4 @@ test 3
 [![Releases](https://img.shields.io/github/release/oobando-40725271/sem/all.svg?style=flat-square)](https://github.com/oobando-40725271/sem/releases)
 # DevOps
 [![A workflow for my Hello World App](https://github.com/oobando-40725271/sem/actions/workflows/main.yml/badge.svg?branch=develop&event=status)](https://github.com/oobando-40725271/sem/actions/workflows/main.yml)
+[![A workflow for my Hello World App](https://github.com/oobando-40725271/sem/actions/workflows/main.yml/badge.svg?event=status)](https://github.com/oobando-40725271/sem/actions/workflows/main.yml)
